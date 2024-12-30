@@ -1,0 +1,26 @@
+{
+    "Accuracy": 0.91,
+    "Precision": {
+        "class_0": 0.92,
+        "class_1": 0.18,
+        "macro_avg": 0.55,
+        "weighted_avg": 0.86
+    },
+    "Recall": {
+        "class_0": 0.99,
+        "class_1": 0.02,
+        "macro_avg": 0.5,
+        "weighted_avg": 0.91
+    },
+    "F1_Score": {
+        "class_0": 0.96,
+        "class_1": 0.03,
+        "macro_avg": 0.49,
+        "weighted_avg": 0.88
+    },
+    "Support": {
+        "class_0": 70672,
+        "class_1": 6206,
+        "total": 76878
+    }
+}
